@@ -132,7 +132,7 @@ github.com/grpc-ecosystem/grpc-gateway/v2 v2.18.0 h1:RtRsiaGvWxcwd8y3BiRZxsylPT8
 github.com/grpc-ecosystem/grpc-gateway/v2 v2.18.0/go.mod h1:TzP6duP4Py2pHLVPPQp42aoYI92+PCrVotyR5e8Vqlk=
 github.com/huandu/xstrings v1.3.3 h1:/Gcsuc1x8JVbJ9/rlye4xZnVAbEkGauT8lbebqcQws4=
 github.com/huandu/xstrings v1.3.3/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
-github.com/ilyam8/hashstructure v1.1.0 h1:N8t8hzzKLf2Da87XgC/DBYqXUmSbclgx+2cZxS5/klU=
+github.com/ilyam8/hashstructure v1.1.0 h1:o3hpiGa1yergDO4AlUVBJGNvCEeaD+Ynu0OWYxee0iA=
 github.com/ilyam8/hashstructure v1.1.0/go.mod h1:LoLuwBSNpZOi3eTMfAqe2i4oW9QkI08e6g1Pci9h7hs=
 github.com/imdario/mergo v0.3.11/go.mod h1:jmQim1M+e3UYxmgPu/WyfjB3N3VflVyUjjjwH0dnCYA=
 github.com/imdario/mergo v0.3.16 h1:wwQJbIsHYGMUyLSPrEq1CT16AhnhNJQ51+4fdHUnCl4=
